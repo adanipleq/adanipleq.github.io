@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my GitHub portfolio! I am currently a student in Hocking College’s Cybersecurity and Networking program. I am hoping to get as much experience as possible and earn some certifications. I love punk rock and post-hardcore music! I collect Transformers and Star Wars figurines. I also adore comic books! 
+This is my GitHub portfolio! I am currently a student in Hocking College’s Cybersecurity and Networking program. I am hoping to get as much experience as possible and earn some certifications. I love punk rock and post-hardcore music! I collect Transformers and Star Wars figurines. I also adore comic books! I am passionate about Cybersecurity and hoping to pursue my bachelor's degree. I want to use my education to spread awareness about security threats.  
 
 
 A data-driven personal website
